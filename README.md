@@ -1,5 +1,60 @@
 # 🏠 Rental Market Insights – Power BI Project
 
+## 📌 TL;DR for Recruiters
+
+This Power BI dashboard analyzes Ghana’s rental housing market using real-world data from Tonaton.com. It showcases end-to-end data handling—from acquisition and cleaning to modeling and visualization. The dashboard provides actionable insights for tenants, landlords, investors, and policymakers.
+
+✅ **Skills Demonstrated**:
+- Data Cleaning (Excel)  
+- Data Modeling (Power BI)  
+- DAX & Visualization  
+- Insight Generation  
+- Business Intelligence Storytelling  
+
+---
+
+## ❓ Problem Statement
+
+Ghana’s rental housing market is expanding but lacks transparency and accessible data for informed decision-making.  
+This project bridges that gap by analyzing rental listings to uncover pricing trends, regional disparities, and property characteristics that influence affordability.
+
+---
+
+## 🧠 Approach & Thought Process
+
+As a data analyst, I followed a structured workflow to ensure clarity, accuracy, and relevance of insights:
+
+### 🔹 Step-by-Step Workflow
+
+1. **📥 Dataset Acquisition**  
+   - Sourced rental property data from Tonaton.com
+
+2. **🧹 Data Cleaning (Excel)**  
+   - Removed duplicates and irrelevant columns  
+   - Standardized property types, conditions, and furnishing status  
+   - Handled missing values and outliers
+
+3. **📊 Import to Power BI**  
+   - Loaded cleaned Excel file into Power BI  
+   - Verified data types and relationships
+
+4. **🔗 Data Modeling**  
+   - Created relationships between tables  
+   - Defined calculated columns and measures using DAX  
+   - Built a star schema for efficient querying
+
+5. **📈 Dashboard Creation**  
+   - Designed interactive visuals: bar charts, maps, slicers  
+   - Enabled cross-filtering for dynamic exploration  
+   - Applied consistent color themes and layout for clarity
+
+6. **🔍 Insight Generation**  
+   - Identified key drivers of rental prices  
+   - Compared affordability across regions and localities  
+   - Provided recommendations for stakeholders
+
+---
+
 ---
 
 ## 📌 Project Overview
